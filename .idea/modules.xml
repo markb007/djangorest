@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/resttutorial.iml" filepath="$PROJECT_DIR$/.idea/resttutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Restdjango.iml" filepath="$PROJECT_DIR$/.idea/Restdjango.iml" />
     </modules>
   </component>
 </project>
